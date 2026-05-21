@@ -7,6 +7,7 @@ const navItems = [
   { href: '/', label: 'TOP' },
   { href: '/profile', label: 'PROFILE' },
   { href: '/music', label: 'MUSIC' },
+  { href: '/photo', label: 'PHOTO' },
 ] as const;
 
 const ACCENT = '#C9A961';

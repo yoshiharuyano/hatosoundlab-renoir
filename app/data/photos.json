@@ -1,0 +1,38 @@
+{
+  "ren": [
+    { "src": "/photos/ren_01.png", "alt": "鳩咲蓮 - 琥珀色のシャツでピアノに向かう" },
+    { "src": "/photos/ren_02.png", "alt": "鳩咲蓮 - 黒シャツで鍵盤に頬を寄せる" },
+    { "src": "/photos/ren_03.png", "alt": "鳩咲蓮 - 黒シャツでピアノを弾く" },
+    { "src": "/photos/ren_04.png", "alt": "鳩咲蓮 - 黒のジャケットでピアノに座る" },
+    { "src": "/photos/ren_05.png", "alt": "鳩咲蓮 - スタインウェイの鍵盤に触れる" },
+    { "src": "/photos/ren_06.png", "alt": "鳩咲蓮 - キャメル色の衣装でピアノに向かう" },
+    { "src": "/photos/ren_07.png", "alt": "鳩咲蓮 - キャメル色のスーツで佇む" },
+    { "src": "/photos/ren_08.png", "alt": "鳩咲蓮 - 琥珀色の光に包まれてピアノを弾く" },
+    { "src": "/photos/ren_09.png", "alt": "鳩咲蓮 - 楽譜と珈琲、午後の練習" },
+    { "src": "/photos/ren_10.png", "alt": "鳩咲蓮 - レコード店でバッハの楽譜を手に" },
+    { "src": "/photos/ren_11.png", "alt": "鳩咲蓮 - 夜景の窓辺で思索する" }
+  ],
+  "towako": [
+    { "src": "/photos/towako_01.png", "alt": "鳩宮とわ子 - 白いブラウスでチェロを抱える" },
+    { "src": "/photos/towako_02.png", "alt": "鳩宮とわ子 - 黒のドレスでチェロを構える" },
+    { "src": "/photos/towako_03.png", "alt": "鳩宮とわ子 - 床に座りチェロに寄り添う" },
+    { "src": "/photos/towako_04.png", "alt": "鳩宮とわ子 - チュールスカートでチェロを奏でる" },
+    { "src": "/photos/towako_05.png", "alt": "鳩宮とわ子 - 朝の光、白いドレスとチェロ" },
+    { "src": "/photos/towako_06.png", "alt": "鳩宮とわ子 - 大聖堂のような空間でチェロと立つ" },
+    { "src": "/photos/towako_07.png", "alt": "鳩宮とわ子 - 白いブラウスでチェロを抱える肖像" },
+    { "src": "/photos/towako_08.png", "alt": "鳩宮とわ子 - 朝光のチェロ、白いニットで佇む" },
+    { "src": "/photos/towako_09.png", "alt": "鳩宮とわ子 - 雨の窓辺、カフェでひとり" }
+  ],
+  "duo": [
+    { "src": "/photos/duo_01.png", "alt": "HATO RENOIR - グランドピアノとチェロ、ふたりの肖像" },
+    { "src": "/photos/duo_02.png", "alt": "HATO RENOIR - 背中合わせのデュオポートレート" },
+    { "src": "/photos/duo_03.png", "alt": "HATO RENOIR - 楽器ケースを背に廊下で寄り添う" },
+    { "src": "/photos/duo_04.png", "alt": "HATO RENOIR - ステージ袖、ピアノとチェロを背景に" },
+    { "src": "/photos/duo_05.png", "alt": "HATO RENOIR - 寄り添うふたり、チェロを挟んで" },
+    { "src": "/photos/duo_06.png", "alt": "HATO RENOIR - 喫茶店で語らうふたり" },
+    { "src": "/photos/duo_07.png", "alt": "HATO RENOIR - スタジオで休憩、ヘッドホンを首にかけて" },
+    { "src": "/photos/duo_08.png", "alt": "HATO RENOIR - 夜の街、寄り添って歩く" },
+    { "src": "/photos/duo_09.png", "alt": "HATO RENOIR - 書棚に囲まれて背中合わせ" },
+    { "src": "/photos/duo_10.png", "alt": "HATO RENOIR - 窓辺の床に座る、コーヒーを手に" }
+  ]
+}
