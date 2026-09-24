@@ -20,7 +20,7 @@ const SITE_NAME = "HATO RENOIR";
 const SITE_TITLE = "HATO RENOIR — echoes of emotion";
 const SITE_DESCRIPTION =
   "HATO RENOIR Official Site. チェロとピアノによる二人組ユニット。光と影、そのあいだ。二つの音が触れあう瞬間に残る、淡い体温と長い残響。";
-const GA_MEASUREMENT_ID = "G-V5L8YHSGQ";
+const GA_MEASUREMENT_ID = "G-V5L8YSHSGQ";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
